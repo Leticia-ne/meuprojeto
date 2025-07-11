@@ -1,0 +1,34 @@
+body
+{
+  font-family: "Times New Roman", Times, serif;
+  width: 940px;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1
+{
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+h2
+{
+    border-bottom-style: solid ;
+}
+
+figure
+{
+    text-align: center;
+    background-color: whitesmoke;
+    color: brown;
+    padding: 15px;
+    margin: 30px;  
+}
+figcaption
+{
+    margin-top: 10px;
+}
